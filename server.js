@@ -44,7 +44,7 @@ const options = {
   definition: {
     openapi: '3.0.0',
     info: {
-      title: 'My API: https://assignmentluxe.onrender.com ',
+      title: 'My API: https://assignmentluxe.onrender.com',
       version: '1.0.0',
     },
     components: {
